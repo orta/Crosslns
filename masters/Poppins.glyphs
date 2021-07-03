@@ -415,7 +415,7 @@ Tag = CUS1;
 );
 date = "2017-09-19 07:47:10 +0000";
 disablesNiceNames = 1;
-familyName = Poppins;
+familyName = Crosslns;
 features = (
 {
 code = "sub @circular_punctuation by @square_punctuation; \012";
@@ -7105,7 +7105,7 @@ type = fontInfo;
 },
 {
 glyphname = I;
-lastChange = "2021-07-03 12:53:27 +0000";
+lastChange = "2021-07-03 13:20:04 +0000";
 layers = (
 {
 anchors = (
@@ -7123,8 +7123,20 @@ paths = (
 {
 closed = 1;
 nodes = (
+"48 704 LINE",
+"48 680 LINE",
+"85 680 LINE",
+"85 24 LINE",
+"52 24 LINE",
+"52 0 LINE",
 "85 0 LINE",
 "105 0 LINE",
+"138 0 LINE",
+"138 24 LINE",
+"105 24 LINE",
+"105 680 LINE",
+"142 680 LINE",
+"142 704 LINE",
 "105 704 LINE",
 "85 704 LINE"
 );
@@ -29527,7 +29539,7 @@ com.typesupply.AccentFactory.compileType = manual;
 },
 {
 glyphname = l;
-lastChange = "2021-07-03 12:59:04 +0000";
+lastChange = "2021-07-03 13:17:07 +0000";
 layers = (
 {
 anchors = (
@@ -29555,12 +29567,15 @@ closed = 1;
 nodes = (
 "85 0 LINE",
 "105 0 LINE",
+"178 0 LINE",
+"178 23 LINE",
+"105 23 LINE",
 "105 740 LINE",
 "85 740 LINE"
 );
 }
 );
-width = 190;
+width = 263;
 },
 {
 anchors = (
@@ -29748,7 +29763,7 @@ type = fontInfo;
 },
 {
 glyphname = lacute;
-lastChange = "2021-07-03 12:59:16 +0000";
+lastChange = "2021-07-03 13:17:08 +0000";
 layers = (
 {
 components = (
@@ -29761,7 +29776,7 @@ transform = "{1, 0, 0, 1, -52, 200}";
 }
 );
 layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
-width = 190;
+width = 263;
 },
 {
 components = (
@@ -42908,7 +42923,7 @@ com.schriftgestaltung.Glyphs.ColorIndex = 4;
 },
 {
 glyphname = fl;
-lastChange = "2021-07-03 12:59:16 +0000";
+lastChange = "2021-07-03 13:17:08 +0000";
 layers = (
 {
 components = (
@@ -42921,7 +42936,7 @@ transform = "{1, 0, 0, 1, 318, 0}";
 }
 );
 layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
-width = 508;
+width = 581;
 },
 {
 components = (
@@ -67691,7 +67706,7 @@ com.schriftgestaltung.Glyphs.ColorIndex = 4;
 },
 {
 glyphname = liter;
-lastChange = "2021-07-03 12:59:16 +0000";
+lastChange = "2021-07-03 13:17:08 +0000";
 layers = (
 {
 components = (
@@ -67700,7 +67715,7 @@ name = l;
 }
 );
 layerId = "57B79CA8-97D8-4C58-BF53-6BAB6214BDE2";
-width = 190;
+width = 263;
 },
 {
 components = (

@@ -11,3 +11,8 @@ The Devanagari glyphs in Poppins were designed by Ninad Kale. The Latin is from 
 ## Dependencies
 
 (To be specified.)
+
+## This repo
+
+This repo is a fork where the I and L have been modified to disambiguate between the characters. To live up to the license, the output assets have been renamed to 'Crosslns'.
+
