@@ -7,7 +7,7 @@ This repo is a fork of Poppins where the I and L have been modified to disambigu
 
 Looks something like this:
 
-![./image.png](./image.png)
+![./screenshot.png](./screenshot.png)
 
 
 During the 1920s, Central European type foundries joined the modernists movements in art and design. Modernism was truly international in scope; only three years after the founding of the German Bauhaus school, several of its painting instructors were already exhibiting their work in Calcutta.
